@@ -35,7 +35,7 @@
 </ul>
 # Question 5
 ## (a)
-<code>
+<pre>
     #include <iostream>
     #include <string>
     using namespace std;
@@ -44,6 +44,7 @@
     {
         string name;
         int x = 0;
+        
         cout << "hello, what is your name? ";
         cin >> name;
         cout << "hello there " << name << " nice to meet you" << endl;
@@ -52,7 +53,7 @@
         return 0;
         
     }
-</code>
+</pre>
 ## (b)
 <p>
     CPP reference is a quick and easy to navigate webpage that lists most of the key functions that you can do in the language. To include but no limited to math functions located in cmath and the basic override functions
