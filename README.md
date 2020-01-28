@@ -1,3 +1,6 @@
 # Homework #1 Solution
-John Nagel
-**NetID: rf8489
+**Student Name**: John Nagel
+**NetID**: rf8489
+## Question 1
+## Question 2
+
