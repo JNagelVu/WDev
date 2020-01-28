@@ -5,8 +5,8 @@
 ## (a)
 ![question1](Images/Question1.png)
 
-##(b)
+## (b)
 ![question2](Images/Question2.png)
 
-## Question 2
+## Question 2z
 
