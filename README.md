@@ -43,59 +43,63 @@ body {
 # Question 2
 ## (a)
 <p>%Documents\GitHub\WDev\clubProject</p>
-# Question 3
-## (a)
-![question1](Images/Question1.png)
-<p>I'm creating a link to
-<a href="https://github.com/JNagelVu/WDev/blob/master/Images/Question1.png">Quesiton 1 png</a>.
-</p>
-    
 ## (b)
-![question2](Images/question2.png)
-<p>I'm creating a link to
-<a href="https://github.com/JNagelVu/WDev/blob/master/Images/question2.png">Quesiton 2 png</a>.
-</p>
-# Question 4
-## (a)
 <ol>
-    <li>C++</li>
-    <li>Java</li>
-    <li>python</li>
+    <li>index.html</li>
+    <li>AboutPage.html</li>
+    <li>Activities.html</li>
 </ol>
-## (b)
-<ul>
-    <li>Windows 98-10</li>
-    <li>Linux Redhat</li>
-    <li>Mac</li>
-</ul>
 ## (c)
-<ul>
-    <li>Visual Studios</li>
-    <li>Cisco routing</li>
-</ul>
-# Question 5
+<p>headers included</p>
+## (d)
+<p>footers and name added</p>
+## (e)
+<p>Nav created and screenshot uploaded </p>
+## (f)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Welcome to the Club</title>
+</head>
+
+<body>
+<header>
+<h1>This is the home page</h1>
+<nav>
+  <ul>
+	<li class = "active"><a href="index.html">Home</a></li>
+	<li><a href="Activities.html">Activities</a></li>
+	<li><a href="AboutPage.html">All About Me</a></li>
+  </ul>
+</nav>
+</header>
+<main>
+<h1 title="do you know the song?">It gets worse here every day</h1>
+
+
+<p title = "Its Guns and Roses">You can have everything you want but you better not take it from me</p>
+<h2>Songs to listen to</h2>
+<ol>
+	<li>CCR</li>
+	<li>San Holo</li>
+	<li>Robert Johnson</li>
+	<li>Louis Armstrong</li>
+</ol>
+</main>
+<footer>
+&#169; 2020 John Nagel
+</footer>
+</body>
+</html>
+# Question 3
+## (a-e)
+<p>Uploaded</p>
+# Question 4
+## (a-c)
+<p>uploaded</p>
+# Question 5 
 ## (a)
-<pre>
-    #include <iostream>
-    #include <string>
-    using namespace std;
-    
-    int main ()
-    {
-        string name;
-        int x = 0;
-        
-        cout << "hello, what is your name? ";
-        cin >> name;
-        cout << "hello there " << name << " nice to meet you" << endl;
-        cout << "good bye " << name;
-        cin >> x;
-        return 0;
-        
-    }
-</pre>
-## (b)
-<p>
-    CPP reference is a quick and easy to navigate webpage that lists most of the key functions that you can do in the language. To include but no limited to math functions located in cmath and the basic override functions
-    <a href="https://en.cppreference.com/w/">CPP_Reference</a>
-</p>
+<p>Completed</p>
+## b,c,d 
+<p>incomplete</p>
